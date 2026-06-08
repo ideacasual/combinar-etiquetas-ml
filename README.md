@@ -3,7 +3,7 @@
 > ** ATENCIÓN: Este repositorio está obsoleto y ya no recibe mantenimiento.**
 >
 > **Te recomiendo encontrar la nueva versión mejorada aquí:**  
-> **[Ir al Nuevo Optimizador de Etiquetas (Soporte para 3 por hoja)](https://github.com/ideacasual/combinador-etiquetas-ml-triple)** _(Reemplaza este enlace con la URL de tu nuevo repositorio o sitio en vivo)_
+> **[Ir al Nuevo Optimizador de Etiquetas (Soporte para 3 por hoja)](https://github.com/ideacasual/combinador-etiquetas-ml-triple)**
 
 ---
 
